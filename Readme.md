@@ -29,6 +29,7 @@ It combines software, hardware, and cloud computing — guiding you from fundame
 - [IoT Architecture Explained - GeeksforGeeks](https://www.geeksforgeeks.org/architecture-of-internet-of-things-iot/)  
 - [IoT Ecosystem Overview - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-iot/)  
 - [IoT Basics - IBM Developer](https://developer.ibm.com/articles/iot-intro/)
+- [IOT projects - Simplilearn](https://www.simplilearn.com/internet-of-things-iot-projects-article?tag=Internet%20of%20things)
 
 ---
 
