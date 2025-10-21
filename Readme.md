@@ -25,7 +25,7 @@ It combines software, hardware, and cloud computing — guiding you from fundame
 - Data flow and communication models (Device-to-Cloud, Cloud-to-Device)
 
 **Resources:**
-- [Introduction to IoT - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-internet-of-things-iot/)  
+- [Introduction to IoT - GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/introduction-to-internet-of-things-iot-set-1/)  
 - [IoT Architecture Explained - GeeksforGeeks](https://www.geeksforgeeks.org/architecture-of-internet-of-things-iot/)  
 - [IoT Ecosystem Overview - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-iot/)  
 - [IoT Basics - IBM Developer](https://developer.ibm.com/articles/iot-intro/)
