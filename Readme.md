@@ -30,6 +30,7 @@ It combines software, hardware, and cloud computing — guiding you from fundame
 - [IoT Ecosystem Overview - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-iot/)  
 - [IoT Basics - IBM Developer](https://developer.ibm.com/articles/iot-intro/)
 - [IOT projects - Simplilearn](https://www.simplilearn.com/internet-of-things-iot-projects-article?tag=Internet%20of%20things)
+- [Introduction to IoT - Simplilearn](https://www.simplilearn.com/learn-iot-basics-skillup?utm_campaign=IoTCourseSkillup&utm_medium=Description&utm_source=youtube)
 
 ---
 
